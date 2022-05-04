@@ -1,6 +1,5 @@
 {
   "name": "main",
-  "homepage":"https://autotrust.github.io/Autotrustapp/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
